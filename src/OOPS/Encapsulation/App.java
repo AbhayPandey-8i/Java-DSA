@@ -25,7 +25,7 @@ public class App {
         System.out.println(A.age);
         System.out.println(A.name);
         System.out.println(A.nos);
-        System.out.println(A.gf); //private hence cannot be accessed, Encapsulation
+//        System.out.println(A.gf); //private hence cannot be accessed, Encapsulation
         System.out.println(A.marks);
 
         A.study();
