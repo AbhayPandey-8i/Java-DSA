@@ -30,6 +30,19 @@ public class Main {
         }
         return newArray;
     }
+//   also correct
+//    static int[] multiplyByStill10(int[] arr) {
+//        int size = arr.length;
+//        int newArr [] = new int [size];
+//
+//        for (int i = 0; i < size; i++) {
+//           int newElements = arr[i] * 10;
+//            newArr[i] = newElements;
+//        }
+//        return newArr;
+//    }
+
+
 
     //Problem-3
     static boolean findTarget(int[] arr, int target) {
