@@ -62,16 +62,16 @@ public class main {
 
       return result;
     }
-
-    public int [][] transpose (int[][] matrix){
-
-        if (matrix == null || matrix.length == 0){
-          return new int [0][0];
-        }
-
-        
-
-    }
+//
+//    public int [][] transpose (int[][] matrix){
+//
+//        if (matrix == null || matrix.length == 0){
+//          return new int [0][0];
+//        }
+//
+//
+//
+//    }
 
 
     static void main() {
