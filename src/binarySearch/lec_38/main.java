@@ -2,7 +2,7 @@ package binarySearch.lec_38;
 
 public class main {
 
-    public int peakIndexInMountainArray(int arr[]){
+    public int peakIndexInMountainArray(int[] arr){
         int n = arr.length;
         int s = 0;
         int e = n-1;

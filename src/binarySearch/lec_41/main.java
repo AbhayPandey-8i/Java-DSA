@@ -2,7 +2,7 @@ package binarySearch.lec_41;
 
 public class main {
 
-    static boolean isValidAnswer(int arr[], int k, int maxPages) {
+    static boolean isValidAnswer(int[] arr, int k, int maxPages) {
         int studentCount = 1;
         int pages = 0;
 
@@ -23,7 +23,7 @@ public class main {
 
     }
 
-    public int findPages(int arr[], int k) {
+    public int findPages(int[] arr, int k) {
 
         if (arr.length < k) {
             return -1;

@@ -3,7 +3,7 @@ package binarySearch.lec_39;
 public class main {
 
     //finding pivot index
-    public int findPivotIndex(int arr[]){
+    public int findPivotIndex(int[] arr){
         int n = arr.length;
         int s = 0;
         int e = n-1;

@@ -2,7 +2,7 @@ package binarySearch.lec_36;
 
 public class main {
 
-    static int binarySearch(int arr[], int target){
+    static int binarySearch(int[] arr, int target){
         int n = arr.length;
         int start = 0;
         int end = n-1;
