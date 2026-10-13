@@ -7,7 +7,7 @@ import java.util.List;
 public class lec_69 {
 
 
-    //combination sum 1
+    //combination sum 1 leetcode
     static void solve(int [] candidates, int target, int index, List<List<Integer>> ans, List<Integer> output){
         if(target == 0){
             ans.add(new ArrayList<>(output));
